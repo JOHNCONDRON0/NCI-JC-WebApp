@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daac2389-9bcc-4d9b-afb5-0603ed721e7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <workItem from="1587379390582" duration="9814000" />
       <workItem from="1587391914881" duration="28896000" />
       <workItem from="1587567968511" duration="98000" />
-      <workItem from="1587582598182" duration="1253000" />
+      <workItem from="1587582598182" duration="2111000" />
     </task>
     <servers />
   </component>
@@ -100,22 +100,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587568064041" />
-    <state width="1323" height="111" key="GridCell.Tab.0.bottom" timestamp="1587585190897">
+    <state width="1323" height="111" key="GridCell.Tab.0.bottom" timestamp="1587586176793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587585190897" />
-    <state width="1323" height="111" key="GridCell.Tab.0.center" timestamp="1587585190897">
+    <state width="1323" height="111" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587586176793" />
+    <state width="1323" height="111" key="GridCell.Tab.0.center" timestamp="1587586176792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587585190897" />
-    <state width="1323" height="111" key="GridCell.Tab.0.left" timestamp="1587585190897">
+    <state width="1323" height="111" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587586176792" />
+    <state width="1323" height="111" key="GridCell.Tab.0.left" timestamp="1587586176792">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587585190897" />
-    <state width="1323" height="111" key="GridCell.Tab.0.right" timestamp="1587585190897">
+    <state width="1323" height="111" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587586176792" />
+    <state width="1323" height="111" key="GridCell.Tab.0.right" timestamp="1587586176793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587585190897" />
+    <state width="1323" height="111" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587586176793" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1587460109663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -130,6 +130,6 @@
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587391921044" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/shanetest$shanetest.coverage" NAME="shanetest Coverage Results" MODIFIED="1587582840515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/shanetest$shanetest.coverage" NAME="shanetest Coverage Results" MODIFIED="1587586176776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
