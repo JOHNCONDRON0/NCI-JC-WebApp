@@ -28,7 +28,7 @@ multidict==4.7.5
 passlib==1.7.2
 pytz==2019.3
 rfc3986==1.4.0
-sanic==19.12.2
+sanic==20.12.7
 sanic-gunicorn==0.1.2
 sniffio==1.1.0
 speaklater==1.3
